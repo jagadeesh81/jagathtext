@@ -1,10 +1,1 @@
- Volume in drive E is Local Disk S
- Volume Serial Number is 58CC-930D
-
- Directory of E:\gitfolder
-
-28-10-2019  15:10    <DIR>          .
-28-10-2019  15:10    <DIR>          ..
-28-10-2019  15:10                 0 text.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  94,730,805,248 bytes free
+jagadeesh
